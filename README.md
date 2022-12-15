@@ -1,8 +1,10 @@
 <h1 align="center">CodeHare (●'◡'●)</h1>
 
-<a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=程序应该惜字如金，但非越少越好!&center=true&size=24">
- </a>
+<div align="center">
+    <a href="https://sunguoqi.com/">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=关键是决定要解决哪些问题！&center=true&size=24">
+    </a>
+</div>
 
 <div align="center">   
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=CodeHare" />
