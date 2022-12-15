@@ -1,10 +1,19 @@
+<h1 align="center">
+   <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20Coder!%22);CodeHare祝您今天愉快!&center=true&size=27">
+  </a>
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hi%2C%20Coder!%22);CodeHare祝您今天愉快!&center=true&size=27">
+  </a>
+</h1>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome.</h1>
 
 
 <p>Welcome to my homePage! </br>I am CodeHare, a programmer worked on Shenzhen, Guangdong Province of China.</p>
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=CodeHare" />
 </div>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
