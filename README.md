@@ -2,6 +2,9 @@
 
 
 <p>Welcome to my homePage! </br>I am CodeHare, a programmer worked on Shenzhen, Guangdong Province of China.</p>
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" />
+</div>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
