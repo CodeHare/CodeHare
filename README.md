@@ -10,7 +10,7 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=CodeHare" />
 </div>
 
-<h3>Things I code with</h3>
+<h3><strong>🛠</strong>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-45b8d8?style=flat-square&logo=vue&logoColor=white" />
