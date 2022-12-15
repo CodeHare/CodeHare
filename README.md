@@ -1,16 +1,10 @@
-<h1 align="center">
-   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20Coder!%22);CodeHare祝您今天愉快!&center=true&size=27">
-  </a>
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hi%2C%20Coder!%22);CodeHare祝您今天愉快!&center=true&size=27">
-  </a>
-</h1>
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome.</h1>
+<h1 align="center">CodeHare (●'◡'●)</h1>
 
+<a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=程序应该惜字如金，但非越少越好!&center=true&size=24">
+ </a>
 
-<p>Welcome to my homePage! </br>I am CodeHare, a programmer worked on Shenzhen, Guangdong Province of China.</p>
-<div align="center">
+<div align="center">   
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=CodeHare" />
 </div>
 
