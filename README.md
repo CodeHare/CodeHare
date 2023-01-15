@@ -44,7 +44,7 @@
 <p><a href="https://github.com/CodeHare" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </p>
 
-<p><strong>狮子不因犬吠而回头！</strong></a> 
+<p align="center"><strong>格物、致知、诚意、正心、修身、齐家、治国、平天下</strong></a> 
 </p>
 
 
