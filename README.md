@@ -1,4 +1,4 @@
-<h1 align="center">This is CodeHare (●'◡'●) </h1>
+<h1 align="center">CodeHare</h1>
 
 <div align="center">
     <a href="https://sunguoqi.com/">
