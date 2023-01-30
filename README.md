@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://sunguoqi.com/">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=朝闻道，夕死可矣！&center=true&size=24">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=无所住 &center=true&size=24">
     </a>
 </div>
 
