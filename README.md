@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">   
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=CodeHare" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=CodeHare"/>
 </div>
 <h3><strong>🛠</strong>Things I code with</h3>
 <p>
