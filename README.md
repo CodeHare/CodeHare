@@ -43,7 +43,7 @@
 <p><a href="https://github.com/CodeHare" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </p>
 
-<p align="center" style="color: "green""><strong>一定要让自己强大、更加强大！</strong></a> 
+<p align="center" style="color: "green""><strong>宁移白首之心，不坠青云之志~</strong></a> 
 </p>
 
 
